@@ -1,0 +1,17 @@
+.venv/
+
+.idea/
+.vscode/
+
+*.ipynb
+!python_basics.ipynb
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+.DS_Store
+
+main.py
+projects
