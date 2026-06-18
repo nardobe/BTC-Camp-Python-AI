@@ -76,8 +76,8 @@ These were designed to be beginner-friendly for students with little to no prior
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/Nardobe/BTC-Camp-Python-AI.git
+   cd BTC-Camp-Python-AI
    ```
 
 2. **Create and activate a virtual environment**
